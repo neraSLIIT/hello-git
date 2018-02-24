@@ -1,2 +1,2 @@
 # hello-git
-1st
+HELLO GIT
